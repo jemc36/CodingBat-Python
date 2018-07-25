@@ -5,5 +5,5 @@
 4. Logic-2
 5. [String-1](https://github.com/jemc36/CodingBat-Python/tree/master/String-1)
 6. [String-2](https://github.com/jemc36/CodingBat-Python/tree/master/String-2)
-7. List-1
+7. [List-1](https://github.com/jemc36/CodingBat-Python/tree/master/List-1)
 8. List-2
